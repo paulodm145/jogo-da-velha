@@ -37,11 +37,13 @@ Este projeto consiste em uma implementação simples do jogo da velha (tic-tac-t
 
 ## Estrutura do Projeto
 
+```plaintext
 /projeto-jogo-da-velha
 │
 ├── index.html
 ├── styles.css
 └── game.js
+
 
 
 ## Considerações Finais
